@@ -1,4 +1,5 @@
 import { Component } from 'react';
+import PropTypes from 'prop-types';
 
 import Spinner from '../spinner/Spinner';
 import ErrorMessage from '../errorMessage/ErrorMessage';
@@ -125,6 +126,7 @@ class CharInfo extends Component {
                     {
                         comics.map((item, i) => {
                             
+                            // eslint-disable-next-line
                             if (i > 9) return;
                             return (
                                 <li key={i} className="char__comics-item">
@@ -139,5 +141,7 @@ class CharInfo extends Component {
             </>
         )
     }
-
+CharInfo.propTypes = {
+    charId: PropTypes.string
+}
 export default CharInfo;
