@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/marvel_test/static/css/main.88b1c25c.chunk.css",
+    "main.js": "/github.io/marvel_test/static/js/main.966bc935.chunk.js",
+    "main.js.map": "/github.io/marvel_test/static/js/main.966bc935.chunk.js.map",
+    "runtime-main.js": "/github.io/marvel_test/static/js/runtime-main.958e3f90.js",
+    "runtime-main.js.map": "/github.io/marvel_test/static/js/runtime-main.958e3f90.js.map",
+    "static/js/2.46415ef6.chunk.js": "/github.io/marvel_test/static/js/2.46415ef6.chunk.js",
+    "static/js/2.46415ef6.chunk.js.map": "/github.io/marvel_test/static/js/2.46415ef6.chunk.js.map",
+    "index.html": "/github.io/marvel_test/index.html",
+    "static/css/main.88b1c25c.chunk.css.map": "/github.io/marvel_test/static/css/main.88b1c25c.chunk.css.map",
+    "static/js/2.46415ef6.chunk.js.LICENSE.txt": "/github.io/marvel_test/static/js/2.46415ef6.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/github.io/marvel_test/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/github.io/marvel_test/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/github.io/marvel_test/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.958e3f90.js",
+    "static/js/2.46415ef6.chunk.js",
+    "static/css/main.88b1c25c.chunk.css",
+    "static/js/main.966bc935.chunk.js"
+  ]
+}
