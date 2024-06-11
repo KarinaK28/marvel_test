@@ -2,10 +2,12 @@
   "name": "marvel",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://KarinaK28/github.io/marvel_test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "http-server": "^14.1.1",
     "prop-types": "^15.8.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
